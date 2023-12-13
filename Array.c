@@ -1,4 +1,5 @@
 #include <stdio.h>
+// Making changes to learn git and github
 
 // Function to search for an element in the array
 void searchElement(int arr[], int size, int element) {

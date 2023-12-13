@@ -1,3 +1,4 @@
+// I love Saurav Ghimire so much
 #include <stdio.h>
 
 int main() {
@@ -16,7 +17,7 @@ int main() {
         scanf("%d", &arr[i]);
     }
 
-    // Count and sum numbers divisible by 7 and not divisible by 2 and 3
+    // Count and sum numbers divisible by 5 and not divisible by 2 and 3
     int count = 0;
     int sum = 0;
 
